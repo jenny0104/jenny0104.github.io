@@ -1,6 +1,6 @@
 ---
 title : "Welcome to my Blog!!"
-permlink : /about/
+permalink : /about/
 layout : single
 ---
 
