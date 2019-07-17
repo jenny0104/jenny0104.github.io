@@ -286,15 +286,15 @@ defaults:
       
    # _posts
    - scope:
-        path: ""
+        path: "_posts"
         type: posts
     values:
         layout: single
        classes: wide
        author_profile: true
-       share: false
-       search: false
-       related: false
+       share: true
+       search: true
+       related: true
       
       
   # _pages
