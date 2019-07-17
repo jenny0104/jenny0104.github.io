@@ -292,13 +292,12 @@ defaults:
       classes : wide
       author_profile: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
       sidebar :
           nav : sidebar-blogging
-          
-   
-   
+      
+      
    # _posts
    - scope :
         path : ""
