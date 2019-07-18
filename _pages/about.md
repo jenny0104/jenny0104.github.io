@@ -1,9 +1,11 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: ""
+excerpt: "About me"
+toc:true
+
 ---
 
-준비중!
+## 준비중!
 
 
