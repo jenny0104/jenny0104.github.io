@@ -182,8 +182,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+ 
 keep_files:
   - .git
   - .svn
@@ -231,8 +230,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  #- jemoji
-  - jekyll-include-cache
+  - jemoji
+  #- jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -240,8 +239,8 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  #- jemoji
-  - jekyll-include-cache
+  - jemoji
+  #- jekyll-include-cache
 
 
 # Archives
@@ -301,7 +300,7 @@ defaults:
    values:
       layout: single
       author_profile : true
-      sidebar_main: true
+      #sidebar_main: true
       
       
       
