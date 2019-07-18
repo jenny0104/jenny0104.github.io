@@ -2,7 +2,8 @@
 permalink: /about/
 title: "About"
 excerpt: "About me"
-toc:true
+search: true
+toc: true
 
 ---
 
